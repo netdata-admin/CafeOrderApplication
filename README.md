@@ -2,7 +2,7 @@
 
 Netdata Sipariş Uygulaması
 =============
-Netdata SocketIo hizmeti kullanılarak hazırlanmış örnek restoran sipariş uygulamasıdır. Uygulama Netdata'nın sunduğu SocketIo hizmetini kullanarak tarayıcıyı yenlemeden ve sürekli istek göndermeden anlık olarak mesajları kullanıcılara iletir. Ayrıca iletilen tüm veriler Netdata üzerinde oluşturulan projeye kaydedilir ve kullanıcı istediği zaman ulaşabilir.
+Netdata SocketIO hizmeti kullanılarak hazırlanmış örnek restoran sipariş uygulamasıdır. Uygulama Netdata'nın sunduğu SocketIo hizmetini kullanarak tarayıcıyı yenlemeden ve sürekli istek göndermeden anlık olarak mesajları kullanıcılara iletir. Ayrıca iletilen tüm veriler Netdata üzerinde oluşturulan projeye kaydedilir ve kullanıcı istediği zaman ulaşabilir.
 
 Bu çalışmanın amacı Netdata üzerinden yapabileceklerinizin bir sınırının olmadığını göstermektir.
 Eğer netdata üzerinde bir projeniz varsa dışardan bu projenize erişip ekleme/silme/güncelleme gibi işlemleri Netdata'ya bağlı kalmaksızın yazdığınız uygulama içerisinde gerçekleştirebilirsiniz.
