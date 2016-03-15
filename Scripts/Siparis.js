@@ -1,4 +1,4 @@
-﻿var apiKey = "3929e28d";
+﻿var apiKey = "*IoT Apikeyni giriniz*";
 var name = "not_set";
 function connect(socketName) {
     name = socketName;
